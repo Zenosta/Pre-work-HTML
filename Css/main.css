@@ -1,0 +1,16 @@
+body, html{
+    height: 100%;
+    margin: 0px;
+}
+    
+body{
+    background-image: url("/Images/x-mas.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1900px;
+    }
+
+    nav li{
+        display: inline;
+        margin: 30px;
+    }
